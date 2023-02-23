@@ -37,10 +37,3 @@ def greeting_by_time(morning=(4, 11), day=(11, 16), evening=(16, 0), night=(0, 4
     return translated.translate(text=greeting,
                                 from_lang='en',
                                 to_lang=lang)
-
-
-
-
-
-
-
