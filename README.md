@@ -7,7 +7,7 @@ Generating a greeting message for a specific time of day depending on the curren
 
 # Libraries
 
-The list of libraries that were used to run the parser
+The list of libraries that were used to run the greeting generation
 
     datetime
     translated
